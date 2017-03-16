@@ -12,4 +12,6 @@ The Turing Test, proposed by Alan Turing (1950), was designed to provide a satis
 * Natural language processing to enable it to communicate successfully in a human language (such as English, Vietnamese,...).  
 * Knowledge representation to store information provided before or during the interrogation.
 * Automated reasoning to use the stored information to answer questions and to draw new conclusions.
-* Machine learning to adapt to new circumstances and to detect and extrapolate patterns.
+* Machine learning to adapt to new circumstances and to detect and extrapolate patterns.  
+### Thinking humanly: The cognitive modelling approach
+If we are going to say that a given program thinks like human, we must have some way of determining how humans think. We need to get inside the actual workings of human minds. There are two ways to do this: Through introspection-trying to catch our own thoughts as they go by or through psychological experiments. Once we have a sufficiently precise theory of the mind, it becomes possible to express the theory as a computer program. If the program's input/output and timing behavior matches human behavior, that is evidence that some of the program's mechanisms may also be operating in humans.
